@@ -29,5 +29,5 @@ qr_button.place(relx=0.35, rely=0.44)
 rasm_l = Label(text="Name the picture: ",font="Arial 8")
 rasm_l.place(relx=0.1, rely=0.34)
 
-tk.mainloop()
 
+tk.mainloop()
